@@ -1,16 +1,8 @@
-# Programacion_Actuarial_3
-Primavera 2018
+x<-1
+x < -1
+x <-2
+print(x) #comentarios de ponen con #
+print (X)
 
-Éste es un archivo de prueba
-:)
-
-# Título
-## Subtítulo
-### Sección 
-
-* Elemento A
-* Elemento B
-* Elemento C
-
-*Prueba*
-**Prueba**
+msg <- "Hola"
+print(msg)
